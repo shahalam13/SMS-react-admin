@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "1e3aba7f1940be5223b2",
-    "url": "/SMS-react-admin/static/js/main.1e3aba7f.chunk.js"
+    "revision": "adfdff5da5a7f453977b",
+    "url": "/SMS-react-admin/static/js/main.adfdff5d.chunk.js"
   },
   {
     "revision": "d1193fe6da60fa30a4d7",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SMS-react-admin/static/js/runtime~main.8630ec27.js"
   },
   {
-    "revision": "1fd9c1bacad964d39d53cb3edb81d056",
+    "revision": "ab17d1eb8318c7e5dc65da842c9308d3",
     "url": "/SMS-react-admin/index.html"
   }
 ];
