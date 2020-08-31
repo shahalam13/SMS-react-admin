@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SMS-react-admin/precache-manifest.6f67cc1d3894d63c33be84559a0d9622.js"
+  "/SMS-react-admin/precache-manifest.548e1a74b5f20764e833e9c6621cdd52.js"
 );
 
 workbox.clientsClaim();
